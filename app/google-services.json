@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "992372328345",
+    "firebase_url": "https://nbt1-d2ead.firebaseio.com",
+    "project_id": "nbt1-d2ead",
+    "storage_bucket": "nbt1-d2ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992372328345:android:1854d53ed0d4e352",
+        "android_client_info": {
+          "package_name": "com.example.dell_pc.nbt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992372328345-8sblqudhgpgpbvf734mmnav51i82ilrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDZOVfuBQqFjL0XL3xyQwwOuzQccFMUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
